@@ -39,15 +39,23 @@ export class AppComponent{
     }
  
 
-  public firstTileContent = `Avery Brundage (1887–1975) was the fifth president of the International Olympic Committee (IOC),
-   the only American to hold that office. In 1912, he competed in the Summer Olympics, contesting the pentathlon and 
-   decathlon; both events were won by Jim Thorpe. Brundage became a sports administrator, rising rapidly through the 
-   ranks in U.S. sports groups. He fought zealously against a boycott of the 1936 Summer Olympics in Berlin, Nazi
-    Germany. Although Brundage was successful, the U.S. participation was controversial, and has remained so. Brundage 
-    was elected to the IOC that year, and quickly became a major figure in the Olympic movement. Elected IOC president
-     in 1952, Brundage fought strongly for amateurism. On September 6, 1972, at the Munich Olympics, his final as 
-     president, when addressing the memorial service following the murder of eleven Israelis by terrorists, Brundage 
-     refused to cancel the remainder of the Olympics, declaring that "the Games must go on".`;
+  public firstTileContent = `Sachin Tendulkar was born in a middle-class family and he was very interested in cricket. 
+  Sachin took up cricket at the age of eleven and was very popular due to the school tournaments.
+  He came into the limelight with a performance at his school tournament where he played an innings which is considered 
+  to change his life. He held a record partnership of 664 runs with Vinod Kambli playing in a school tournament. 
+  That inning allowed the selectors to see the talent and it is considered to be the inning that changed Sachin’s life 
+  as he became famous in a fortnight. Because of that inning, people all around the country got to know about a 16 years
+   old kid that bats till the bowlers collapse. The Indian cricket team selectors did not waste time in selecting him 
+   and before anyone could have imagined Sachin Tendulkar was selected for the series against Pakistan only at the age
+    of 16.
+
+  On 15 November 1989, Sachin Tendulkar made his international debut against Pakistan in Karachi. Pakistan’s cricket 
+  team was known for its bowling during those days where the combo of Wasim Akram and Waqar Younis were considered 
+  to be the most dangerous bowling duo. But Sachin faced them gracefully and even made a few runs. A 16 years old
+   boy was able to face the most feared bowlers of that time which opened the doors for him to be selected for future
+    cricket matches and a chance to represent the Indian National team. Sachin Tendulkar in his autobiography has
+     mentioned that the series against Pakistan was memorable to him as he got a chance to meet and learn to form 
+     his idols such as Kapil dev and Sunil Gavaskar.`;
 
  
    onClick(){
