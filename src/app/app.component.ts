@@ -66,12 +66,12 @@ export class AppComponent{
     });    
   }  
  
-  onSelect(){
-    navigator.clipboard.readText().then(res=>{
-      //console.log("selected:",res);
-      this.selected=res      
-    });    
-  }
+  // onSelect(){
+  //   navigator.clipboard.readText().then(res=>{
+  //     //console.log("selected:",res);
+  //     this.selected=res      
+  //   });    
+  // }
   // @HostListener('document:mouseup', ["$event"])
   // public onMouseUp(event: MouseEvent): void {  
   //   //debugger;

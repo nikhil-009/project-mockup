@@ -1,26 +1,4 @@
-#tool-Tip {
-  width: 2.5rem;
-  height: 2.5rem;
-  font-size: 1.25rem;
-  color: #56b8f5;
-  background-color: #fff;
-  cursor: pointer;
-  border: 2px solid #56b8f5;
-  border-radius: 50%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 10;
-  display: none;
-  transition: color 0.2s, background-color 0.2s ease-in-out;
-}
-#tool-Tip:hover {
-  color: #fff;
-  background-color: #56b8f5;
-}
-#tool-Tip i {
-  pointer-events: none;
-}
+
 .example-config {
   display: flex;
   justify-content: space-around;
