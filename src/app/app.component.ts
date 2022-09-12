@@ -10,7 +10,7 @@ import { PopoverContainerDirective } from '@progress/kendo-angular-tooltip';
   encapsulation: ViewEncapsulation.None
 
 })
-export class AppComponent  implements OnChanges{ 
+export class AppComponent{ 
   @ViewChild('container', { static: false })
   private container!: PopoverContainerDirective;
 
@@ -37,11 +37,7 @@ export class AppComponent  implements OnChanges{
 
 
     }
-  ngOnChanges(changes: SimpleChanges): void {
-    debugger;
-    console.log("changes:",changes);
-    
-  }
+ 
 
   public firstTileContent = `Avery Brundage (1887–1975) was the fifth president of the International Olympic Committee (IOC),
    the only American to hold that office. In 1912, he competed in the Summer Olympics, contesting the pentathlon and 
